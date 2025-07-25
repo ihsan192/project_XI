@@ -1,0 +1,27 @@
+body {
+  background-color: #d1a980;
+  margin: 0;
+  padding: 0;
+}
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #fbf5de;
+}
+ul li {
+  list-style: none;
+}
+ul {
+  display: flex;
+  gap: 2rem;
+}
+ul {
+  text-decoration: none;
+  color: black;
+  font-weight: 900;
+}
+
+.nav-logo {
+  margin-left: 1rem;
+}
